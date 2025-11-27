@@ -3,3 +3,9 @@
 # Ask the user for two numbers (as input), convert them to integers, call the function, and print the result.
     
 # Write your code here:
+
+number=int(input())
+def my_function(number):
+    print(number+number)
+
+my_function(number)
