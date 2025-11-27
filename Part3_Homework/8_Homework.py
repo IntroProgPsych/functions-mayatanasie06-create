@@ -19,3 +19,9 @@
 # Keep input() outside the functions.
 
 # Write your code here:
+
+score=int(input("Type in a score: "))
+def function(score):
+    if score<0 or score>100:
+        print
+        

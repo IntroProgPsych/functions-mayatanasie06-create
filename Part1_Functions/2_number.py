@@ -10,3 +10,8 @@
 # Output: 25
 
 # Write your code here:
+number=int(input())
+def my_function(number):
+    print(number*number)
+
+my_function(number)
